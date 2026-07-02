@@ -1,5 +1,4 @@
 import javax.swing.SwingUtilities;
-
 import managers.AuthService;
 import managers.IdGenerator;
 import view.LoginView;
